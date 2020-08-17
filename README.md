@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm a student (who wants to be a) developer!
+I'm a student (who wants to be a) developer!  
+~~My contributions' count is small because I remove my repositories in a certain period.~~
 
 ### My Projects
  - [The NoIE License](https://github.com/thoratica/The-NoIE-License) - A license for world peace.
