@@ -4,13 +4,6 @@
 I'm a student (who wants to be a) developer!  
 ~~My contributions' count is small because I remove my repositories in a certain period.~~
 
-### My Projects
-[![The NoIE License](https://github-readme-stats.vercel.app/api/pin/?username=thoratica&repo=The-NoIE-License&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f&bg_color=2e2e2e)](https://github.com/thoratica/The-NoIE-License)
-[![blow.ga](https://github-readme-stats.vercel.app/api/pin/?username=thoratica&repo=blow.ga&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f&bg_color=2e2e2e)](https://github.com/thoratica/blow.ga)
-
-### GitHub Status
-![tica](https://github-readme-stats.vercel.app/api?username=thoratica&count_private=true&show_icons=true&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f&bg_color=2e2e2e&include_all_commits=true)
-
 ### Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) 
