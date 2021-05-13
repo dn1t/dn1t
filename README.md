@@ -12,4 +12,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=fff) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoratica)]()
