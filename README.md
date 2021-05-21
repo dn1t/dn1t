@@ -5,4 +5,3 @@
 ### Learning
 - TypeScript
 - Rust
-- React
