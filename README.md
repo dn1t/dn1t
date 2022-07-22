@@ -43,7 +43,6 @@ Developing since 2019. (but deleted all repositories created that year 🫠)
 ![Notion](https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black)
 
 ## Stats
-![solved.ac Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=thoratica)  
-![David Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thoratica&count_private=true&show_icons=true)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thoratica&layout=compact)  
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dukhwa)
+![solved.ac Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=thoratica)
+![David Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thoratica&count_private=true&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thoratica&layout=compact)
