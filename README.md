@@ -6,7 +6,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wilpthv4ba9ko4a8zetn4365y?si=9c0e591f0f6a423c)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1f2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thoratica)
 
-I'm a 16yo (18 in [Korean Age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)) student developer & designer.  
+I'm a 16y/o (18 in [Korean Age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)) student developer & designer.  
 Developing since 2019. (but deleted all repositories created that year 🫠)
 
 ## Tech Stack
