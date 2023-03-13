@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1f2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thoratica)
 
 I'm a 16y/o (18 in [Korean Age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)) student developer & designer.  
-Developing since 2019. (but deleted all repositories created that year 🫠)
+Developing since 2017. (but deleted all repositories created in 2017-19 🫠)
 
 ## Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
