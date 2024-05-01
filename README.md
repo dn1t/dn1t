@@ -1,5 +1,5 @@
 <div>
-  <img src="star-struck.png" style="height: 50px" />
+  <img src="star-struck.png" style="height: 50px" align="left" />
 
   ![David Lee](names/dark.svg#gh-dark-mode-only)
   ![](names/light.svg#gh-light-mode-only)
