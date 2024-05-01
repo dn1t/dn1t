@@ -1,5 +1,9 @@
-![David Lee](names/dark.svg#gh-dark-mode-only)
-![](names/light.svg#gh-light-mode-only)
+<div>
+  <img src="star-struck.png" style="height: 50px" />
+
+  ![David Lee](names/dark.svg#gh-dark-mode-only)
+  ![](names/light.svg#gh-light-mode-only)
+</div>
 
 [![GitHub](badges/github.svg)](https://github.com/dn1t)
 [![solved.ac](badges/solved-ac.svg)](https://solved.ac/profile/thoratica)
