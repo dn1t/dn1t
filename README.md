@@ -1,3 +1,5 @@
+<!-- SVGs used in this file are available in Figma: https://www.figma.com/file/uncTRGGOaZ2NuVHQ57NxIg/GitHub-profile-README.md-SVGs -->
+
 <div>
   <img src="star-struck.png" style="height: 50px" align="right" />
 
