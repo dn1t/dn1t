@@ -14,6 +14,6 @@
 [![X](badges/x.svg)](https://x.com/thoratica)
 
 17yo[^1] student developer & designer.  
-Programming since 2017. (but deleted all repos created back then 🫠)
+Born in 2006, Programming since 2017.
 
 [^1]: 19 in [Korean age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)
