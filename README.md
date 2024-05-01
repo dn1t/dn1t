@@ -3,9 +3,20 @@
 <div>
   <img src="star-struck.png" style="height: 50px" align="right" />
 
-  ![David Lee](names/dark.svg#gh-dark-mode-only)
-  ![](names/light.svg#gh-light-mode-only)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="names/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="names/light.svg">
+    <img alt="David Lee" src="names/light.svg">
+  </picture>
+
+  <!--
+    The old URL fragment method is deprecated.
+
+    ![David Lee](names/dark.svg#gh-dark-mode-only)
+    ![](names/light.svg#gh-light-mode-only)
+  -->
 </div>
+<p></p>
 
 [![GitHub](badges/github.svg)](https://github.com/dn1t)
 [![solved.ac](badges/solved-ac.svg)](https://solved.ac/profile/thoratica)
