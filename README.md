@@ -26,10 +26,30 @@
 [![Telegram](badges/telegram.svg)](https://t.me/dnltek)
 [![X](badges/x.svg)](https://x.com/thoratica)
 
+<a href="https://readme-widgets.deno.dev/redirect?to=recently-played" target="_blank">
+  <img src="https://readme-widgets.deno.dev/recently-played" height="150" align="right" />
+</a>
+
 17yo[^1] student developer & designer.  
 Born in 2006, Programming since 2017.
 
+<div align="right">
+  <h6>
+    <sub>
+      wanna use this widget too? >
+      <br />
+      check out <a href="https://github.com/dn1t/readme-widgets">dn1t/readme-widgets</a>
+    </sub>
+  </h6>
+</div>
+
 [^1]: 19 in [Korean age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)
 
-[<img src="https://readme-widgets.deno.dev/recently-played" height="150" />](https://readme-widgets.deno.dev/redirect?to=recently-played)  
-<sub>&nbsp;&nbsp;^ wanna use this widget too? check out [dn1t/readme-widgets](https://github.com/dn1t/readme-widgets)</sub>
+## Projects
+
+- [remote-kakao](https://github.com/remote-kakao/core)
+- [readme-widgets](https://github.com/dn1t/readme-widgets)
+- [Daisy](https://github.com/EntDaisy/daisy.lol)
+- [tuned.lol](https://github.com/tuned-lol/tuned.lol)
+
+<br />
