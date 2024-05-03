@@ -27,7 +27,7 @@
 [![X](badges/x.svg)](https://x.com/thoratica)
 
 <a href="https://readme-widgets.deno.dev/redirect?to=recently-played" target="_blank">
-  <img src="https://readme-widgets.deno.dev/recently-played" height="150" align="right" />
+  <img src="https://readme-widgets.deno.dev/recently-played" height="128" align="right" />
 </a>
 
 17yo[^1] student developer & designer.  
