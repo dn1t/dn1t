@@ -30,3 +30,5 @@
 Born in 2006, Programming since 2017.
 
 [^1]: 19 in [Korean age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)
+
+[<img src="https://readme-widgets.deno.dev/recently-played" height="150" />](https://readme-widgets.deno.dev/redirect?to=recently-played)
