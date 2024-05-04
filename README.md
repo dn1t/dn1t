@@ -47,9 +47,9 @@ Born in 2006, Programming since 2017.
 
 ## Projects
 
-- [remote-kakao](https://github.com/remote-kakao/core)
-- [readme-widgets](https://github.com/dn1t/readme-widgets)
-- [Daisy](https://github.com/EntDaisy/daisy.lol)
-- [tuned.lol](https://github.com/tuned-lol/tuned.lol)
+[![remote-kakao](https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core)](https://github.com/remote-kakao/core)
+[![readme-widgets](https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets)](https://github.com/dn1t/readme-widgets)
+[![Daisy](https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy)](https://github.com/EntDaisy/daisy.lol)
+[![tuned](https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned)](https://github.com/tuned-lol/tuned.lol)
 
 <br />
