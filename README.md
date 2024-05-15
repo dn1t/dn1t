@@ -46,9 +46,34 @@ Born in 2006, Programming since 2017.
 
 ## Projects
 
-[![remote-kakao](https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core&name=remote-kakao)](https://github.com/remote-kakao/core)
-[![readme-widgets](https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets)](https://github.com/dn1t/readme-widgets)
-[![Daisy](https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy)](https://github.com/EntDaisy/daisy.lol)
-[![tuned](https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned)](https://github.com/tuned-lol/tuned.lol)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core&name=remote-kakao&colorScheme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core&name=remote-kakao&colorScheme=light">
+  <img alt="remote-kakao" src="https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core&name=remote-kakao">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets&colorScheme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets&colorScheme=light">
+  <img alt="readme-widgets" src="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy&colorScheme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy&colorScheme=light">
+  <img alt="Daisy" src="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned&colorScheme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned&colorScheme=light">
+  <img alt="tuned" src="https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned">
+</picture>
+
+<!--
+  prefers-color-scheme in SVGs is not supported in Safari
+
+  [![remote-kakao](https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core&name=remote-kakao)](https://github.com/remote-kakao/core)
+  [![readme-widgets](https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets)](https://github.com/dn1t/readme-widgets)
+  [![Daisy](https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy)](https://github.com/EntDaisy/daisy.lol)
+  [![tuned](https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned)](https://github.com/tuned-lol/tuned.lol)
+-->
 
 <br />
