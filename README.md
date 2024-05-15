@@ -46,26 +46,34 @@ Born in 2006, Programming since 2017.
 
 ## Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core&name=remote-kakao&colorScheme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core&name=remote-kakao&colorScheme=light">
-  <img alt="remote-kakao" src="https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core&name=remote-kakao">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets&colorScheme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets&colorScheme=light">
-  <img alt="readme-widgets" src="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy&colorScheme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy&colorScheme=light">
-  <img alt="Daisy" src="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned&colorScheme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned&colorScheme=light">
-  <img alt="tuned" src="https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned">
-</picture>
+<a href="https://github.com/remote-kakao/core">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core&name=remote-kakao&colorScheme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core&name=remote-kakao&colorScheme=light">
+    <img alt="remote-kakao" src="https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core&name=remote-kakao">
+  </picture>
+</a>
+<a href="https://github.com/dn1t/readme-widgets">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets&colorScheme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets&colorScheme=light">
+    <img alt="readme-widgets" src="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets">
+  </picture>
+</a>
+<a href="https://github.com/EntDaisy/daisy.lol">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy&colorScheme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy&colorScheme=light">
+    <img alt="Daisy" src="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy">
+  </picture>
+</a>
+<a href="https://github.com/tuned-lol/tuned.lol">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned&colorScheme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned&colorScheme=light">
+    <img alt="tuned" src="https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned">
+  </picture>
+</a>
 
 <!--
   prefers-color-scheme in SVGs is not supported in Safari
