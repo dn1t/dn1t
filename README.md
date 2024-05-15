@@ -22,7 +22,6 @@
 [![solved.ac](badges/solved-ac.svg)](https://solved.ac/profile/thoratica)
 [![Apple Music](badges/apple-music.svg)](https://music.apple.com/profile/dn1t)
 [![Instagram](badges/instagram.svg)](https://instagram.com/dnlt.ek)
-[![Discord](badges/discord.svg)](https://discord.gg/jr7BZmnT)
 [![Telegram](badges/telegram.svg)](https://t.me/dnltek)
 [![X](badges/x.svg)](https://x.com/thoratica)
 
