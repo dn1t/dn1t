@@ -29,7 +29,7 @@
   <img src="https://readme-widgets.deno.dev/recently-played" height="128" align="right" />
 </a>
 
-17yo[^1] student developer & designer.  
+18yo[^1] student developer & designer.  
 Born in 2006, Programming since 2017.
 
 <div align="right">
