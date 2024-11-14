@@ -23,7 +23,6 @@
 [![Apple Music](badges/apple-music.svg)](https://music.apple.com/profile/dn1t)
 [![Instagram](badges/instagram.svg)](https://instagram.com/dnlt.ek)
 [![Telegram](badges/telegram.svg)](https://t.me/dnltek)
-[![X](badges/x.svg)](https://x.com/thoratica)
 
 <a href="https://readme-widgets.deno.dev/redirect?to=recently-played" target="_blank">
   <img src="https://readme-widgets.deno.dev/recently-played" height="128" align="right" />
