@@ -21,8 +21,6 @@
 [![GitHub](badges/github.svg)](https://github.com/dn1t)
 [![solved.ac](badges/solved-ac.svg)](https://solved.ac/profile/thoratica)
 [![Apple Music](badges/apple-music.svg)](https://music.apple.com/profile/dn1t)
-[![Instagram](badges/instagram.svg)](https://instagram.com/dnlt.ek)
-[![Telegram](badges/telegram.svg)](https://t.me/dnltek)
 
 <a href="https://readme-widgets.deno.dev/redirect?to=recently-played" target="_blank">
   <img src="https://readme-widgets.deno.dev/recently-played" height="128" align="right" />
