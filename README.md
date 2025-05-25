@@ -22,13 +22,16 @@
 [![solved.ac](badges/solved-ac.svg)](https://solved.ac/profile/thoratica)
 [![Apple Music](badges/apple-music.svg)](https://music.apple.com/profile/dn1t)
 
+<!--
 <a href="https://readme-widgets.deno.dev/redirect?to=recently-played" target="_blank">
   <img src="https://readme-widgets.deno.dev/recently-played" height="128" align="right" />
 </a>
+-->
 
 18yo[^1] student developer & designer.  
 Born in 2006, Programming since 2017.
 
+<!--
 <div align="right">
   <h6>
     <sub>
@@ -38,6 +41,7 @@ Born in 2006, Programming since 2017.
     </sub>
   </h6>
 </div>
+-->
 
 [^1]: 20 in [Korean age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)
 
@@ -50,6 +54,14 @@ Born in 2006, Programming since 2017.
     <img alt="remote-kakao" src="https://readme-widgets.deno.dev/repository?owner=remote-kakao&repo=core&name=remote-kakao">
   </picture>
 </a>
+<a href="https://github.com/dn1t/flikk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=flikk&colorScheme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=flikk&colorScheme=light">
+    <img alt="flikk" src="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=flikk">
+  </picture>
+</a>
+<!--
 <a href="https://github.com/dn1t/readme-widgets">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets&colorScheme=dark">
@@ -57,6 +69,7 @@ Born in 2006, Programming since 2017.
     <img alt="readme-widgets" src="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=readme-widgets">
   </picture>
 </a>
+-->
 <a href="https://github.com/EntDaisy/daisy.lol">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy&colorScheme=dark">
