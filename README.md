@@ -28,7 +28,7 @@
 </a>
 -->
 
-18yo[^1] student developer & designer.  
+19yo[^1] student developer & designer.  
 Born in 2006, Programming since 2017.
 
 <!--
