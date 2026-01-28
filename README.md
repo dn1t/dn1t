@@ -43,7 +43,7 @@ Born in 2006, Programming since 2017.
 </div>
 -->
 
-[^1]: 20 in [Korean age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)
+[^1]: 21 in [Korean age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)
 
 ## Projects
 
