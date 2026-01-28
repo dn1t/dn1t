@@ -20,7 +20,7 @@
 
 [![GitHub](badges/github.svg)](https://github.com/dn1t)
 [![solved.ac](badges/solved-ac.svg)](https://solved.ac/profile/thoratica)
-[![Apple Music](badges/apple-music.svg)](https://music.apple.com/profile/dn1t)
+[![Apple Music](badges/apple-music.svg)](https://music.apple.com/profile/dnlt)
 
 <!--
 <a href="https://readme-widgets.deno.dev/redirect?to=recently-played" target="_blank">
