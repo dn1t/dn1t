@@ -70,11 +70,11 @@ Born in 2006, Programming since 2017.
   </picture>
 </a>
 -->
-<a href="https://github.com/EntDaisy/daisy.lol">
+<a href="https://github.com/dn1t/daisy">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy&colorScheme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy&colorScheme=light">
-    <img alt="Daisy" src="https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=daisy&name=Daisy&colorScheme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=daisy&name=Daisy&colorScheme=light">
+    <img alt="Daisy" src="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=daisy&name=Daisy">
   </picture>
 </a>
 <a href="https://github.com/dn1t/tuned">
