@@ -34,6 +34,8 @@ Born in 2006, Programming since 2017.-->
 19yo student developer & designer.  
 Born in ’06, Programming since ’17.
 
+<sub>[Visit `gh/dn1t-archive` to see abandoned projects &rarr;](https://github.com/dn1t-archive)</sub>
+
 <!--
 <div align="right">
   <h6>
