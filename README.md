@@ -28,8 +28,11 @@
 </a>
 -->
 
-19yo[^1] student developer & designer.  
-Born in 2006, Programming since 2017.
+<!--19yo[^1] student developer & designer.  
+Born in 2006, Programming since 2017.-->
+
+19yo student developer & designer.  
+Born in ’06, Programming since ’17.
 
 <!--
 <div align="right">
@@ -43,7 +46,7 @@ Born in 2006, Programming since 2017.
 </div>
 -->
 
-[^1]: 21 in [Korean age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)
+<!--[^1]: 21 in [Korean age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)-->
 
 <!--## Projects
 
