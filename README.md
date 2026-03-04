@@ -45,7 +45,7 @@ Born in 2006, Programming since 2017.
 
 [^1]: 21 in [Korean age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)
 
-## Projects
+<!--## Projects
 
 <a href="https://github.com/remote-kakao/core">
   <picture>
@@ -60,7 +60,7 @@ Born in 2006, Programming since 2017.
     <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=flikk&colorScheme=light">
     <img alt="flikk" src="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=flikk">
   </picture>
-</a>
+</a>-->
 <!--
 <a href="https://github.com/dn1t/readme-widgets">
   <picture>
@@ -70,7 +70,7 @@ Born in 2006, Programming since 2017.
   </picture>
 </a>
 -->
-<a href="https://github.com/dn1t/daisy">
+<!--<a href="https://github.com/dn1t/daisy">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=daisy&name=Daisy&colorScheme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=daisy&name=Daisy&colorScheme=light">
@@ -83,7 +83,7 @@ Born in 2006, Programming since 2017.
     <source media="(prefers-color-scheme: light)" srcset="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=tuned&colorScheme=light">
     <img alt="tuned" src="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=tuned">
   </picture>
-</a>
+</a>-->
 
 <!--
   prefers-color-scheme in SVGs is not supported in Safari
@@ -94,5 +94,5 @@ Born in 2006, Programming since 2017.
   [![tuned](https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned)](https://github.com/tuned-lol/tuned.lol)
 -->
 
-<br />
-<br />
+<!--<br />
+<br />-->
