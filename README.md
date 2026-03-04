@@ -34,8 +34,7 @@ Born in 2006, Programming since 2017.-->
 19yo student developer & designer.  
 Born in ’06, Programming since ’17.
 
-<sub>[Visit `gh/dn1t-archive` to see abandoned projects &rarr;](https://github.com/dn1t-archive)</sub>
-
+<sup>[Visit `gh/dn1t-archive` to see abandoned projects &rarr;](https://github.com/dn1t-archive)</sup>
 <!--
 <div align="right">
   <h6>
@@ -47,9 +46,7 @@ Born in ’06, Programming since ’17.
   </h6>
 </div>
 -->
-
 <!--[^1]: 21 in [Korean age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)-->
-
 <!--## Projects
 
 <a href="https://github.com/remote-kakao/core">
@@ -89,7 +86,6 @@ Born in ’06, Programming since ’17.
     <img alt="tuned" src="https://readme-widgets.deno.dev/repository?owner=dn1t&repo=tuned">
   </picture>
 </a>-->
-
 <!--
   prefers-color-scheme in SVGs is not supported in Safari
 
@@ -98,6 +94,5 @@ Born in ’06, Programming since ’17.
   [![Daisy](https://readme-widgets.deno.dev/repository?owner=EntDaisy&repo=daisy.lol&name=Daisy)](https://github.com/EntDaisy/daisy.lol)
   [![tuned](https://readme-widgets.deno.dev/repository?owner=tuned-lol&repo=tuned.lol&name=tuned)](https://github.com/tuned-lol/tuned.lol)
 -->
-
 <!--<br />
 <br />-->
