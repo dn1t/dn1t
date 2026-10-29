@@ -31,7 +31,7 @@
 <!--19yo[^1] student developer & designer.  
 Born in 2006, Programming since 2017.-->
 
-19yo student developer & designer.  
+20yo student developer & designer.  
 Born in ’06, Programming since ’17.
 
 <sup>[Visit `gh/dn1t-archive` to see abandoned projects &rarr;](https://github.com/dn1t-archive)</sup>
